@@ -1,0 +1,4 @@
+\\kc.umkc.edu\kc-users\home\v\vcdqb\my documents\visual studio 2010\Projects\WcfService2\WcfService2\bin\WcfService2.dll
+\\kc.umkc.edu\kc-users\home\v\vcdqb\my documents\visual studio 2010\Projects\WcfService2\WcfService2\bin\WcfService2.pdb
+\\kc.umkc.edu\kc-users\home\v\vcdqb\my documents\visual studio 2010\Projects\WcfService2\WcfService2\obj\Debug\WcfService2.dll
+\\kc.umkc.edu\kc-users\home\v\vcdqb\my documents\visual studio 2010\Projects\WcfService2\WcfService2\obj\Debug\WcfService2.pdb
