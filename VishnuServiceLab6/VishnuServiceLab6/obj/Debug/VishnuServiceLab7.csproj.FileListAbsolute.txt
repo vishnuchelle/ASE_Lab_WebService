@@ -1,0 +1,9 @@
+\\kc.umkc.edu\kc-users\home\v\vcdqb\My Documents\Visual Studio 2010\Projects\VishnuServiceLab7\VishnuServiceLab7\bin\VishnuServiceLab7.dll
+\\kc.umkc.edu\kc-users\home\v\vcdqb\My Documents\Visual Studio 2010\Projects\VishnuServiceLab7\VishnuServiceLab7\bin\VishnuServiceLab7.pdb
+\\kc.umkc.edu\kc-users\home\v\vcdqb\My Documents\Visual Studio 2010\Projects\VishnuServiceLab7\VishnuServiceLab7\obj\Debug\VishnuServiceLab7.dll
+\\kc.umkc.edu\kc-users\home\v\vcdqb\My Documents\Visual Studio 2010\Projects\VishnuServiceLab7\VishnuServiceLab7\obj\Debug\VishnuServiceLab7.pdb
+C:\Users\vcdqb\Documents\Visual Studio 2010\Projects\VishnuServiceLab7\VishnuServiceLab7\bin\VishnuServiceLab7.dll
+C:\Users\vcdqb\Documents\Visual Studio 2010\Projects\VishnuServiceLab7\VishnuServiceLab7\bin\VishnuServiceLab7.pdb
+C:\Users\vcdqb\Documents\Visual Studio 2010\Projects\VishnuServiceLab7\VishnuServiceLab7\obj\Debug\VishnuServiceLab7.dll
+C:\Users\vcdqb\Documents\Visual Studio 2010\Projects\VishnuServiceLab7\VishnuServiceLab7\obj\Debug\VishnuServiceLab7.pdb
+C:\Users\vcdqb\Documents\Visual Studio 2010\Projects\VishnuServiceLab7\VishnuServiceLab7\obj\Debug\VishnuServiceLab7.csprojResolveAssemblyReference.cache

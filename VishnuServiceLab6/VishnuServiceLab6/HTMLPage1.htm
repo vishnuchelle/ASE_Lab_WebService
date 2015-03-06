@@ -1,0 +1,47 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Vishnu Testing Page</title>
+    <script 
+    src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js" > 
+    </script>
+    <script>
+    
+    $(document).ready(function(){
+        $("#btn1").click(function(){
+        var uname = document.getElementById('uname').value;
+	    var password = document.getElementById('password').value;    
+	    $.ajax({
+            type: 'GET',            
+            url: 'http://localhost:57451/Service1.svc/queryInfo/'+uname,
+            async: false,
+            contentType: "application/json",               
+    	    }).then(function(data) {     
+     	    returnMsg = data;
+            //alert("The data is "+ data);
+            if (password == data) 
+                $('p.write').html("Welcome Mr./Mrs.: " + uname);
+            else 
+                $('p.write').html("invalid username");
+                                   
+    	    });
+	    
+        });        
+    });   
+
+    </script>
+</head>
+<body>
+
+<b>Please enter Username and Password</b>
+
+Username: <input type="text" id="uname" />
+Password: <input type="password" id="password" />
+
+
+<button id="btn1">Submit</button>
+
+<p class="write"></p>
+
+</body>
+</html>

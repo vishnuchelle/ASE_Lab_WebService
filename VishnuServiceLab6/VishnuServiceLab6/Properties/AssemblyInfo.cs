@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("WcfService2")]
+[assembly: AssemblyTitle("VishnuServiceLab7")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("WcfService2")]
+[assembly: AssemblyProduct("VishnuServiceLab7")]
 [assembly: AssemblyCopyright("Copyright ©  2015")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("613b9378-4cab-4f74-972d-0f276646f008")]
+[assembly: Guid("52ba18e7-abbd-45f6-b5fa-26d2909003b9")]
 
 // Version information for an assembly consists of the following four values:
 //
